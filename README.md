@@ -12,7 +12,7 @@ Brandon Reponte is a 4th year at UCSD studying computer science. He has a backgr
 
 Leeze Gutierrez-Ramirez...
 
-Rudy Osuna...
+Rudy Osuna is a 3rd year UCSD Computer Science major, Minor in Business Analytics. Background: Involved in Quantitative Finance
 
 ## Repository Contents
 
